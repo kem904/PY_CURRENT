@@ -1,2 +1,3 @@
 # PY_CURRENT
-The 6th IC Design Competition -- PY_Cup
+第六届集成电路创新创业大赛——飞腾杯
+
